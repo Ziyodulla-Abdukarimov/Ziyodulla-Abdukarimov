@@ -26,16 +26,16 @@
         < Frontend />
 
 <h3 align="center">
-  <img width="450px" src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,javascript" />
+  <img width="250px" src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,javascript" />
 </h3>
 
-<h3 align="center">
+<div style="font-size: 18px" align="center">
 
         < Backend />
 
-</h3>
+</div>
 <p align="center">
-  <img width="350px" src="https://skillicons.dev/icons?i=python,django,fastapi,mysql,sqlite," />
+  <img width="250px" src="https://skillicons.dev/icons?i=python,django,fastapi,mysql,sqlite," />
 </p>
 
 
