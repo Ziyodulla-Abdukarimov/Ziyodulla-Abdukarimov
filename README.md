@@ -21,35 +21,12 @@
 
 ### 💻 Tech Stack:
 
-<h3 align="center">
-
-        < Frontend />
-
-<h3 align="center">
-  <img width="250px" src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,javascript" />
-</h3>
-
-<div style="font-size: 18px" align="center">
-
-        < Backend />
-
-</div>
-<p align="center">
-  <img width="250px" src="https://skillicons.dev/icons?i=python,django,fastapi,mysql,sqlite," />
-</p>
+<img width="450px" src="https://skillicons.dev/icons?i=cpp,python,django,fastapi,mysql,postgres,sqlite,html,css,tailwind,bootstrap,javascript" />
 
 
 ### 🛠 Tools:
 
-<img alt="git" src="https://img.shields.io/badge/git-F05033.svg?&style=for-the-badge&logo=git&logoColor=fff" />&nbsp;
-<img alt="github" src="https://img.shields.io/badge/github-000.svg?&style=for-the-badge&logo=github&logoColor=fff" />&nbsp;
-<img alt="gitlab" src="https://img.shields.io/badge/gitlab-380D75.svg?&style=for-the-badge&logo=gitlab&logoColor=fff" />&nbsp;
-<img alt="jira" src="https://img.shields.io/badge/jira-2D80FF.svg?&style=for-the-badge&logo=jira&logoColor=fff" />&nbsp;
-<img alt="confluence" src="https://img.shields.io/badge/confluence-1F4D7D.svg?&style=for-the-badge&logo=confluence&logoColor=fff" />&nbsp;
-<img alt="heroku" src="https://img.shields.io/badge/heroku-5920B1.svg?&style=for-the-badge&logo=heroku&logoColor=fff" />&nbsp;
-<img alt="photoshop" src="https://img.shields.io/badge/photoshop-31A8FF.svg?&style=for-the-badge&logo=adobe-photoshop&logoColor=fff" />&nbsp;
-<img alt="invision" src="https://img.shields.io/badge/invision-FF3267.svg?&style=for-the-badge&logo=invision&logoColor=fff" />&nbsp;
-<img alt="vs code" src="https://img.shields.io/badge/vs code-007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=fff" />&nbsp;
+<img src="https://skillicons.dev/icons?i=github,git,docker,idea,vscode,vim,postman,linux,nginx,figma,ps" />
 
 ---
 
