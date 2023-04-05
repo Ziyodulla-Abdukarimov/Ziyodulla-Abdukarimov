@@ -21,7 +21,7 @@
 
 ### 💻 Tech Stack:
 
-<img alt="react" src="https://img.shields.io/badge/react-61DAFB.svg?&style=for-the-badge&logo=react&logoColor=fff" />&nbsp;
+<img src="https://skillicons.dev/icons?i=python," />
 <img alt="redux" src="https://img.shields.io/badge/redux-764ABC.svg?&style=for-the-badge&logo=redux&logoColor=fff" />&nbsp;
 <img alt="redux-saga" src="https://img.shields.io/badge/redux saga-939393.svg?&style=for-the-badge&logo=redux-saga&logoColor=fff" />&nbsp;
 <img alt="graphql" src="https://img.shields.io/badge/graphql-E10098.svg?&style=for-the-badge&logo=graphql&logoColor=fff" />&nbsp;
