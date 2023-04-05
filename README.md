@@ -21,7 +21,7 @@
 
 ### 💻 Tech Stack:
 
-<img width="450px" src="https://skillicons.dev/icons?i=cpp,python,django,fastapi,mysql,postgres,sqlite,html,css,tailwind,bootstrap,javascript" />
+<img src="https://skillicons.dev/icons?i=cpp,python,django,fastapi,mysql,postgres,sqlite,html,css,tailwind,bootstrap,javascript" />
 
 
 ### 🛠 Tools:
