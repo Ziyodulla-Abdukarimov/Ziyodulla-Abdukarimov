@@ -45,7 +45,7 @@
 ![Git](https://img.shields.io/badge/-Linux-F05033?style=for-the-badge&logo=Linux&logoColor=fff)
 ![Git](https://img.shields.io/badge/-Nginx-009639?style=for-the-badge&logo=Nginx&logoColor=fff)
 ![Git](https://img.shields.io/badge/-Apache-A52056?style=for-the-badge&logo=Apache&logoColor=fff)
-![Git](https://img.shields.io/badge/-Fimga-1E1E1E?style=for-the-badge&logo=Figma&logoColor=fff)
+![Git](https://img.shields.io/badge/-Figma-1E1E1E?style=for-the-badge&logo=Figma&logoColor=fff)
 ---
 
 ### ⚙️ GitHub Analytics
@@ -53,10 +53,10 @@
 <table>
   <tr>
     <td>
-      <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=YauhenKavalchuk&theme=algolia" alt="webDev's Github stats" />
+      <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Ziyodulla-Abdukarimov&theme=algolia" alt="webDev's Github stats" />
     </td>
     <td>
-      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=YauhenKavalchuk&theme=algolia&layout=compact" />
+      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Ziyodulla-Abdukarimov&theme=algolia&layout=compact" />
     </td>
   </tr>
 </table>
