@@ -7,7 +7,7 @@
 ## I'm a Backend Developer and Cyber-security specialist!
 
 - 📍 I’m From Uzbekistan (Xorazm)
-- 💻 2+ Years Experience in Back-end Development
+- 💻 1+ Years Experience in Back-end Development
 - 📙 I'm at The Bachelor's degree
 
 ### 🤝 Connect with me:
