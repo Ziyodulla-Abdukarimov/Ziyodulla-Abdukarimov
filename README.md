@@ -4,7 +4,7 @@
 
 ### Hi all, I'm Ziyodulla Abdukarimov
 
-## I'm a Backend Developer and Cyber-security specialist!
+## I'm a Backend Developer!
 
 - 📍 I’m From Uzbekistan (Xorazm)
 - 💻 1+ Years Experience in Back-end Development
